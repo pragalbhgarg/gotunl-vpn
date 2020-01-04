@@ -1,4 +1,6 @@
 # gotunl
+This project automates PIN and 2FA OTP for Pritunl connection so you don't have to enter them everytime!
+Insert your PIN and 2FA OTP secret key in ```lib/gotunl.go``` at line 39-40 and build it.
 
 gotunl is a command line client for Pritunl written in Go.
 
