@@ -36,8 +36,8 @@ type Gotunl struct {
 	Profiles   map[string]profile
 }
 
-const pin = "123456"
-const awsKey = "JQI33NPWH6GZFOUW"
+const pin = "Enter PIN here"
+const awsKey = "Enter AWS key"
 
 func _getKey() string {
 	keyPath := ""
