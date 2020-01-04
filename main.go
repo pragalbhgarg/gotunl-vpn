@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cghdev/gotunl"
 	"github.com/olekukonko/tablewriter"
+	gotunl "github.com/pragalbhgarg/gotunl-vpn/lib"
 	"github.com/tidwall/gjson"
 )
 
